@@ -1,0 +1,4 @@
+cryptography>=42.0
+pyhanko>=0.38,<0.40
+asn1crypto>=1.5
+PySide6-Essentials>=6.6

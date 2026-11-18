@@ -1,0 +1,2923 @@
+('C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+ '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\build\\Signet\\PYZ-00.pyz',
+ [('PySide6',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\PySide6\\__init__.py',
+   'PYMODULE'),
+  ('__future__', 'C:\\Python313\\Lib\\__future__.py', 'PYMODULE'),
+  ('_aix_support', 'C:\\Python313\\Lib\\_aix_support.py', 'PYMODULE'),
+  ('_colorize', 'C:\\Python313\\Lib\\_colorize.py', 'PYMODULE'),
+  ('_compat_pickle', 'C:\\Python313\\Lib\\_compat_pickle.py', 'PYMODULE'),
+  ('_compression', 'C:\\Python313\\Lib\\_compression.py', 'PYMODULE'),
+  ('_distutils_hack',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_opcode_metadata', 'C:\\Python313\\Lib\\_opcode_metadata.py', 'PYMODULE'),
+  ('_osx_support', 'C:\\Python313\\Lib\\_osx_support.py', 'PYMODULE'),
+  ('_py_abc', 'C:\\Python313\\Lib\\_py_abc.py', 'PYMODULE'),
+  ('_pydatetime', 'C:\\Python313\\Lib\\_pydatetime.py', 'PYMODULE'),
+  ('_pydecimal', 'C:\\Python313\\Lib\\_pydecimal.py', 'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils.qt',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\qt.py',
+   'PYMODULE'),
+  ('_pyrepl', 'C:\\Python313\\Lib\\_pyrepl\\__init__.py', 'PYMODULE'),
+  ('_pyrepl._minimal_curses',
+   'C:\\Python313\\Lib\\_pyrepl\\_minimal_curses.py',
+   'PYMODULE'),
+  ('_pyrepl._threading_handler',
+   'C:\\Python313\\Lib\\_pyrepl\\_threading_handler.py',
+   'PYMODULE'),
+  ('_pyrepl.base_eventqueue',
+   'C:\\Python313\\Lib\\_pyrepl\\base_eventqueue.py',
+   'PYMODULE'),
+  ('_pyrepl.commands', 'C:\\Python313\\Lib\\_pyrepl\\commands.py', 'PYMODULE'),
+  ('_pyrepl.completing_reader',
+   'C:\\Python313\\Lib\\_pyrepl\\completing_reader.py',
+   'PYMODULE'),
+  ('_pyrepl.console', 'C:\\Python313\\Lib\\_pyrepl\\console.py', 'PYMODULE'),
+  ('_pyrepl.curses', 'C:\\Python313\\Lib\\_pyrepl\\curses.py', 'PYMODULE'),
+  ('_pyrepl.fancy_termios',
+   'C:\\Python313\\Lib\\_pyrepl\\fancy_termios.py',
+   'PYMODULE'),
+  ('_pyrepl.historical_reader',
+   'C:\\Python313\\Lib\\_pyrepl\\historical_reader.py',
+   'PYMODULE'),
+  ('_pyrepl.input', 'C:\\Python313\\Lib\\_pyrepl\\input.py', 'PYMODULE'),
+  ('_pyrepl.keymap', 'C:\\Python313\\Lib\\_pyrepl\\keymap.py', 'PYMODULE'),
+  ('_pyrepl.main', 'C:\\Python313\\Lib\\_pyrepl\\main.py', 'PYMODULE'),
+  ('_pyrepl.pager', 'C:\\Python313\\Lib\\_pyrepl\\pager.py', 'PYMODULE'),
+  ('_pyrepl.reader', 'C:\\Python313\\Lib\\_pyrepl\\reader.py', 'PYMODULE'),
+  ('_pyrepl.readline', 'C:\\Python313\\Lib\\_pyrepl\\readline.py', 'PYMODULE'),
+  ('_pyrepl.simple_interact',
+   'C:\\Python313\\Lib\\_pyrepl\\simple_interact.py',
+   'PYMODULE'),
+  ('_pyrepl.trace', 'C:\\Python313\\Lib\\_pyrepl\\trace.py', 'PYMODULE'),
+  ('_pyrepl.types', 'C:\\Python313\\Lib\\_pyrepl\\types.py', 'PYMODULE'),
+  ('_pyrepl.unix_console',
+   'C:\\Python313\\Lib\\_pyrepl\\unix_console.py',
+   'PYMODULE'),
+  ('_pyrepl.unix_eventqueue',
+   'C:\\Python313\\Lib\\_pyrepl\\unix_eventqueue.py',
+   'PYMODULE'),
+  ('_pyrepl.utils', 'C:\\Python313\\Lib\\_pyrepl\\utils.py', 'PYMODULE'),
+  ('_pyrepl.windows_console',
+   'C:\\Python313\\Lib\\_pyrepl\\windows_console.py',
+   'PYMODULE'),
+  ('_pyrepl.windows_eventqueue',
+   'C:\\Python313\\Lib\\_pyrepl\\windows_eventqueue.py',
+   'PYMODULE'),
+  ('_sitebuiltins', 'C:\\Python313\\Lib\\_sitebuiltins.py', 'PYMODULE'),
+  ('_strptime', 'C:\\Python313\\Lib\\_strptime.py', 'PYMODULE'),
+  ('_threading_local', 'C:\\Python313\\Lib\\_threading_local.py', 'PYMODULE'),
+  ('activity_log',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\backend\\activity_log.py',
+   'PYMODULE'),
+  ('aiohappyeyeballs',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohappyeyeballs\\__init__.py',
+   'PYMODULE'),
+  ('aiohappyeyeballs._staggered',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohappyeyeballs\\_staggered.py',
+   'PYMODULE'),
+  ('aiohappyeyeballs.impl',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohappyeyeballs\\impl.py',
+   'PYMODULE'),
+  ('aiohappyeyeballs.types',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohappyeyeballs\\types.py',
+   'PYMODULE'),
+  ('aiohappyeyeballs.utils',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohappyeyeballs\\utils.py',
+   'PYMODULE'),
+  ('aiohttp',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\__init__.py',
+   'PYMODULE'),
+  ('aiohttp._cookie_helpers',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\_cookie_helpers.py',
+   'PYMODULE'),
+  ('aiohttp._websocket',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\_websocket\\__init__.py',
+   'PYMODULE'),
+  ('aiohttp._websocket.helpers',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\_websocket\\helpers.py',
+   'PYMODULE'),
+  ('aiohttp._websocket.models',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\_websocket\\models.py',
+   'PYMODULE'),
+  ('aiohttp._websocket.reader',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\_websocket\\reader.py',
+   'PYMODULE'),
+  ('aiohttp._websocket.reader_py',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\_websocket\\reader_py.py',
+   'PYMODULE'),
+  ('aiohttp._websocket.writer',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\_websocket\\writer.py',
+   'PYMODULE'),
+  ('aiohttp.abc',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\abc.py',
+   'PYMODULE'),
+  ('aiohttp.base_protocol',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\base_protocol.py',
+   'PYMODULE'),
+  ('aiohttp.client',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\client.py',
+   'PYMODULE'),
+  ('aiohttp.client_exceptions',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\client_exceptions.py',
+   'PYMODULE'),
+  ('aiohttp.client_middleware_digest_auth',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\client_middleware_digest_auth.py',
+   'PYMODULE'),
+  ('aiohttp.client_middlewares',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\client_middlewares.py',
+   'PYMODULE'),
+  ('aiohttp.client_proto',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\client_proto.py',
+   'PYMODULE'),
+  ('aiohttp.client_reqrep',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\client_reqrep.py',
+   'PYMODULE'),
+  ('aiohttp.client_ws',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\client_ws.py',
+   'PYMODULE'),
+  ('aiohttp.compression_utils',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\compression_utils.py',
+   'PYMODULE'),
+  ('aiohttp.connector',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\connector.py',
+   'PYMODULE'),
+  ('aiohttp.cookiejar',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\cookiejar.py',
+   'PYMODULE'),
+  ('aiohttp.formdata',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\formdata.py',
+   'PYMODULE'),
+  ('aiohttp.hdrs',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\hdrs.py',
+   'PYMODULE'),
+  ('aiohttp.helpers',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\helpers.py',
+   'PYMODULE'),
+  ('aiohttp.http',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\http.py',
+   'PYMODULE'),
+  ('aiohttp.http_exceptions',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\http_exceptions.py',
+   'PYMODULE'),
+  ('aiohttp.http_parser',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\http_parser.py',
+   'PYMODULE'),
+  ('aiohttp.http_websocket',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\http_websocket.py',
+   'PYMODULE'),
+  ('aiohttp.http_writer',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\http_writer.py',
+   'PYMODULE'),
+  ('aiohttp.log',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\log.py',
+   'PYMODULE'),
+  ('aiohttp.multipart',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\multipart.py',
+   'PYMODULE'),
+  ('aiohttp.payload',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\payload.py',
+   'PYMODULE'),
+  ('aiohttp.payload_streamer',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\payload_streamer.py',
+   'PYMODULE'),
+  ('aiohttp.resolver',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\resolver.py',
+   'PYMODULE'),
+  ('aiohttp.streams',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\streams.py',
+   'PYMODULE'),
+  ('aiohttp.tcp_helpers',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\tcp_helpers.py',
+   'PYMODULE'),
+  ('aiohttp.tracing',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\tracing.py',
+   'PYMODULE'),
+  ('aiohttp.typedefs',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\typedefs.py',
+   'PYMODULE'),
+  ('aiohttp.web',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\web.py',
+   'PYMODULE'),
+  ('aiohttp.web_app',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\web_app.py',
+   'PYMODULE'),
+  ('aiohttp.web_exceptions',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\web_exceptions.py',
+   'PYMODULE'),
+  ('aiohttp.web_fileresponse',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\web_fileresponse.py',
+   'PYMODULE'),
+  ('aiohttp.web_log',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\web_log.py',
+   'PYMODULE'),
+  ('aiohttp.web_middlewares',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\web_middlewares.py',
+   'PYMODULE'),
+  ('aiohttp.web_protocol',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\web_protocol.py',
+   'PYMODULE'),
+  ('aiohttp.web_request',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\web_request.py',
+   'PYMODULE'),
+  ('aiohttp.web_response',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\web_response.py',
+   'PYMODULE'),
+  ('aiohttp.web_routedef',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\web_routedef.py',
+   'PYMODULE'),
+  ('aiohttp.web_runner',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\web_runner.py',
+   'PYMODULE'),
+  ('aiohttp.web_server',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\web_server.py',
+   'PYMODULE'),
+  ('aiohttp.web_urldispatcher',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\web_urldispatcher.py',
+   'PYMODULE'),
+  ('aiohttp.web_ws',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\web_ws.py',
+   'PYMODULE'),
+  ('aiohttp.worker',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiohttp\\worker.py',
+   'PYMODULE'),
+  ('aiosignal',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\aiosignal\\__init__.py',
+   'PYMODULE'),
+  ('argparse', 'C:\\Python313\\Lib\\argparse.py', 'PYMODULE'),
+  ('asn1crypto',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\__init__.py',
+   'PYMODULE'),
+  ('asn1crypto._errors',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\_errors.py',
+   'PYMODULE'),
+  ('asn1crypto._inet',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\_inet.py',
+   'PYMODULE'),
+  ('asn1crypto._int',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\_int.py',
+   'PYMODULE'),
+  ('asn1crypto._iri',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\_iri.py',
+   'PYMODULE'),
+  ('asn1crypto._ordereddict',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\_ordereddict.py',
+   'PYMODULE'),
+  ('asn1crypto._teletex_codec',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\_teletex_codec.py',
+   'PYMODULE'),
+  ('asn1crypto._types',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\_types.py',
+   'PYMODULE'),
+  ('asn1crypto.algos',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\algos.py',
+   'PYMODULE'),
+  ('asn1crypto.cms',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\cms.py',
+   'PYMODULE'),
+  ('asn1crypto.core',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\core.py',
+   'PYMODULE'),
+  ('asn1crypto.crl',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\crl.py',
+   'PYMODULE'),
+  ('asn1crypto.csr',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\csr.py',
+   'PYMODULE'),
+  ('asn1crypto.keys',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\keys.py',
+   'PYMODULE'),
+  ('asn1crypto.ocsp',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\ocsp.py',
+   'PYMODULE'),
+  ('asn1crypto.parser',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\parser.py',
+   'PYMODULE'),
+  ('asn1crypto.pdf',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\pdf.py',
+   'PYMODULE'),
+  ('asn1crypto.pem',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\pem.py',
+   'PYMODULE'),
+  ('asn1crypto.pkcs12',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\pkcs12.py',
+   'PYMODULE'),
+  ('asn1crypto.tsp',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\tsp.py',
+   'PYMODULE'),
+  ('asn1crypto.util',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\util.py',
+   'PYMODULE'),
+  ('asn1crypto.version',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\version.py',
+   'PYMODULE'),
+  ('asn1crypto.x509',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\asn1crypto\\x509.py',
+   'PYMODULE'),
+  ('ast', 'C:\\Python313\\Lib\\ast.py', 'PYMODULE'),
+  ('asyncio', 'C:\\Python313\\Lib\\asyncio\\__init__.py', 'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Python313\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Python313\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Python313\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Python313\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Python313\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Python313\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events', 'C:\\Python313\\Lib\\asyncio\\events.py', 'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Python313\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Python313\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures', 'C:\\Python313\\Lib\\asyncio\\futures.py', 'PYMODULE'),
+  ('asyncio.locks', 'C:\\Python313\\Lib\\asyncio\\locks.py', 'PYMODULE'),
+  ('asyncio.log', 'C:\\Python313\\Lib\\asyncio\\log.py', 'PYMODULE'),
+  ('asyncio.mixins', 'C:\\Python313\\Lib\\asyncio\\mixins.py', 'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Python313\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Python313\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues', 'C:\\Python313\\Lib\\asyncio\\queues.py', 'PYMODULE'),
+  ('asyncio.runners', 'C:\\Python313\\Lib\\asyncio\\runners.py', 'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Python313\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto', 'C:\\Python313\\Lib\\asyncio\\sslproto.py', 'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Python313\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams', 'C:\\Python313\\Lib\\asyncio\\streams.py', 'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Python313\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Python313\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks', 'C:\\Python313\\Lib\\asyncio\\tasks.py', 'PYMODULE'),
+  ('asyncio.threads', 'C:\\Python313\\Lib\\asyncio\\threads.py', 'PYMODULE'),
+  ('asyncio.timeouts', 'C:\\Python313\\Lib\\asyncio\\timeouts.py', 'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Python313\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock', 'C:\\Python313\\Lib\\asyncio\\trsock.py', 'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Python313\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Python313\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Python313\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('attr',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\attr\\__init__.py',
+   'PYMODULE'),
+  ('attr._cmp',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\attr\\_cmp.py',
+   'PYMODULE'),
+  ('attr._compat',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\attr\\_compat.py',
+   'PYMODULE'),
+  ('attr._config',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\attr\\_config.py',
+   'PYMODULE'),
+  ('attr._funcs',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\attr\\_funcs.py',
+   'PYMODULE'),
+  ('attr._make',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\attr\\_make.py',
+   'PYMODULE'),
+  ('attr._next_gen',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\attr\\_next_gen.py',
+   'PYMODULE'),
+  ('attr._version_info',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\attr\\_version_info.py',
+   'PYMODULE'),
+  ('attr.converters',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\attr\\converters.py',
+   'PYMODULE'),
+  ('attr.exceptions',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\attr\\exceptions.py',
+   'PYMODULE'),
+  ('attr.filters',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\attr\\filters.py',
+   'PYMODULE'),
+  ('attr.setters',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\attr\\setters.py',
+   'PYMODULE'),
+  ('attr.validators',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\attr\\validators.py',
+   'PYMODULE'),
+  ('base64', 'C:\\Python313\\Lib\\base64.py', 'PYMODULE'),
+  ('bdb', 'C:\\Python313\\Lib\\bdb.py', 'PYMODULE'),
+  ('bisect', 'C:\\Python313\\Lib\\bisect.py', 'PYMODULE'),
+  ('bz2', 'C:\\Python313\\Lib\\bz2.py', 'PYMODULE'),
+  ('calendar', 'C:\\Python313\\Lib\\calendar.py', 'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('certificate_generator',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\backend\\certificate_generator.py',
+   'PYMODULE'),
+  ('cffi',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi._imp_emulation',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cffi\\_imp_emulation.py',
+   'PYMODULE'),
+  ('cffi._shimmed_dist_utils',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cffi\\_shimmed_dist_utils.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('cmd', 'C:\\Python313\\Lib\\cmd.py', 'PYMODULE'),
+  ('code', 'C:\\Python313\\Lib\\code.py', 'PYMODULE'),
+  ('codeop', 'C:\\Python313\\Lib\\codeop.py', 'PYMODULE'),
+  ('concurrent', 'C:\\Python313\\Lib\\concurrent\\__init__.py', 'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Python313\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Python313\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Python313\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Python313\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser', 'C:\\Python313\\Lib\\configparser.py', 'PYMODULE'),
+  ('contextlib', 'C:\\Python313\\Lib\\contextlib.py', 'PYMODULE'),
+  ('contextvars', 'C:\\Python313\\Lib\\contextvars.py', 'PYMODULE'),
+  ('copy', 'C:\\Python313\\Lib\\copy.py', 'PYMODULE'),
+  ('cryptography',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.__about__',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\__about__.py',
+   'PYMODULE'),
+  ('cryptography.exceptions',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography.hazmat',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._oid',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\_oid.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\backends\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.backend',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\backend.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl._conditional',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\_conditional.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl.binding',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\binding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\decrepit\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit.ciphers',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\decrepit\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit.ciphers.algorithms',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\decrepit\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit.ciphers.modes',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\decrepit\\ciphers\\modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._asymmetric',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\_asymmetric.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._cipheralgorithm',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\_cipheralgorithm.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._modes',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\_modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._serialization',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\_serialization.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dh',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dsa',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ec',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed25519',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed448',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.mldsa',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\mldsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.mlkem',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\mlkem.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.padding',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.rsa',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.types',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\types.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.utils',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x25519',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x448',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.aead',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.algorithms',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.base',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.modes',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.constant_time',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\constant_time.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hashes',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hmac',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\hmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf.hkdf',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\hkdf.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf.x963kdf',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\x963kdf.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.keywrap',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\keywrap.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.padding',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.base',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.pkcs12',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\pkcs12.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.ssh',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\ssh.py',
+   'PYMODULE'),
+  ('cryptography.utils',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\utils.py',
+   'PYMODULE'),
+  ('cryptography.x509',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\x509\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.x509.base',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\x509\\base.py',
+   'PYMODULE'),
+  ('cryptography.x509.certificate_transparency',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\x509\\certificate_transparency.py',
+   'PYMODULE'),
+  ('cryptography.x509.extensions',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\x509\\extensions.py',
+   'PYMODULE'),
+  ('cryptography.x509.general_name',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\x509\\general_name.py',
+   'PYMODULE'),
+  ('cryptography.x509.name',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\x509\\name.py',
+   'PYMODULE'),
+  ('cryptography.x509.oid',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\x509\\oid.py',
+   'PYMODULE'),
+  ('cryptography.x509.verification',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\cryptography\\x509\\verification.py',
+   'PYMODULE'),
+  ('csv', 'C:\\Python313\\Lib\\csv.py', 'PYMODULE'),
+  ('ctypes', 'C:\\Python313\\Lib\\ctypes\\__init__.py', 'PYMODULE'),
+  ('ctypes._aix', 'C:\\Python313\\Lib\\ctypes\\_aix.py', 'PYMODULE'),
+  ('ctypes._endian', 'C:\\Python313\\Lib\\ctypes\\_endian.py', 'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Python313\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Python313\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Python313\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Python313\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util', 'C:\\Python313\\Lib\\ctypes\\util.py', 'PYMODULE'),
+  ('ctypes.wintypes', 'C:\\Python313\\Lib\\ctypes\\wintypes.py', 'PYMODULE'),
+  ('curses', 'C:\\Python313\\Lib\\curses\\__init__.py', 'PYMODULE'),
+  ('curses.has_key', 'C:\\Python313\\Lib\\curses\\has_key.py', 'PYMODULE'),
+  ('dataclasses', 'C:\\Python313\\Lib\\dataclasses.py', 'PYMODULE'),
+  ('datetime', 'C:\\Python313\\Lib\\datetime.py', 'PYMODULE'),
+  ('decimal', 'C:\\Python313\\Lib\\decimal.py', 'PYMODULE'),
+  ('difflib', 'C:\\Python313\\Lib\\difflib.py', 'PYMODULE'),
+  ('dis', 'C:\\Python313\\Lib\\dis.py', 'PYMODULE'),
+  ('doctest', 'C:\\Python313\\Lib\\doctest.py', 'PYMODULE'),
+  ('email', 'C:\\Python313\\Lib\\email\\__init__.py', 'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Python313\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Python313\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr', 'C:\\Python313\\Lib\\email\\_parseaddr.py', 'PYMODULE'),
+  ('email._policybase',
+   'C:\\Python313\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime', 'C:\\Python313\\Lib\\email\\base64mime.py', 'PYMODULE'),
+  ('email.charset', 'C:\\Python313\\Lib\\email\\charset.py', 'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Python313\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders', 'C:\\Python313\\Lib\\email\\encoders.py', 'PYMODULE'),
+  ('email.errors', 'C:\\Python313\\Lib\\email\\errors.py', 'PYMODULE'),
+  ('email.feedparser', 'C:\\Python313\\Lib\\email\\feedparser.py', 'PYMODULE'),
+  ('email.generator', 'C:\\Python313\\Lib\\email\\generator.py', 'PYMODULE'),
+  ('email.header', 'C:\\Python313\\Lib\\email\\header.py', 'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Python313\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators', 'C:\\Python313\\Lib\\email\\iterators.py', 'PYMODULE'),
+  ('email.message', 'C:\\Python313\\Lib\\email\\message.py', 'PYMODULE'),
+  ('email.parser', 'C:\\Python313\\Lib\\email\\parser.py', 'PYMODULE'),
+  ('email.policy', 'C:\\Python313\\Lib\\email\\policy.py', 'PYMODULE'),
+  ('email.quoprimime', 'C:\\Python313\\Lib\\email\\quoprimime.py', 'PYMODULE'),
+  ('email.utils', 'C:\\Python313\\Lib\\email\\utils.py', 'PYMODULE'),
+  ('fnmatch', 'C:\\Python313\\Lib\\fnmatch.py', 'PYMODULE'),
+  ('folders',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\backend\\folders.py',
+   'PYMODULE'),
+  ('formatting',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\gui\\formatting.py',
+   'PYMODULE'),
+  ('fractions', 'C:\\Python313\\Lib\\fractions.py', 'PYMODULE'),
+  ('frozenlist',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\frozenlist\\__init__.py',
+   'PYMODULE'),
+  ('ftplib', 'C:\\Python313\\Lib\\ftplib.py', 'PYMODULE'),
+  ('getopt', 'C:\\Python313\\Lib\\getopt.py', 'PYMODULE'),
+  ('getpass', 'C:\\Python313\\Lib\\getpass.py', 'PYMODULE'),
+  ('gettext', 'C:\\Python313\\Lib\\gettext.py', 'PYMODULE'),
+  ('glob', 'C:\\Python313\\Lib\\glob.py', 'PYMODULE'),
+  ('gzip', 'C:\\Python313\\Lib\\gzip.py', 'PYMODULE'),
+  ('hashlib', 'C:\\Python313\\Lib\\hashlib.py', 'PYMODULE'),
+  ('hmac', 'C:\\Python313\\Lib\\hmac.py', 'PYMODULE'),
+  ('html', 'C:\\Python313\\Lib\\html\\__init__.py', 'PYMODULE'),
+  ('html.entities', 'C:\\Python313\\Lib\\html\\entities.py', 'PYMODULE'),
+  ('http', 'C:\\Python313\\Lib\\http\\__init__.py', 'PYMODULE'),
+  ('http.client', 'C:\\Python313\\Lib\\http\\client.py', 'PYMODULE'),
+  ('http.cookiejar', 'C:\\Python313\\Lib\\http\\cookiejar.py', 'PYMODULE'),
+  ('http.cookies', 'C:\\Python313\\Lib\\http\\cookies.py', 'PYMODULE'),
+  ('http.server', 'C:\\Python313\\Lib\\http\\server.py', 'PYMODULE'),
+  ('icons',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\gui\\icons.py',
+   'PYMODULE'),
+  ('identity_detail',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\gui\\identity_detail.py',
+   'PYMODULE'),
+  ('identity_storage',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\backend\\identity_storage.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('importlib', 'C:\\Python313\\Lib\\importlib\\__init__.py', 'PYMODULE'),
+  ('importlib._abc', 'C:\\Python313\\Lib\\importlib\\_abc.py', 'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Python313\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Python313\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc', 'C:\\Python313\\Lib\\importlib\\abc.py', 'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Python313\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Python313\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Python313\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Python313\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Python313\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Python313\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Python313\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Python313\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Python313\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Python313\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Python313\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Python313\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Python313\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Python313\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Python313\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Python313\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util', 'C:\\Python313\\Lib\\importlib\\util.py', 'PYMODULE'),
+  ('inspect', 'C:\\Python313\\Lib\\inspect.py', 'PYMODULE'),
+  ('ipaddress', 'C:\\Python313\\Lib\\ipaddress.py', 'PYMODULE'),
+  ('json', 'C:\\Python313\\Lib\\json\\__init__.py', 'PYMODULE'),
+  ('json.decoder', 'C:\\Python313\\Lib\\json\\decoder.py', 'PYMODULE'),
+  ('json.encoder', 'C:\\Python313\\Lib\\json\\encoder.py', 'PYMODULE'),
+  ('json.scanner', 'C:\\Python313\\Lib\\json\\scanner.py', 'PYMODULE'),
+  ('key_generator',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\backend\\key_generator.py',
+   'PYMODULE'),
+  ('logging', 'C:\\Python313\\Lib\\logging\\__init__.py', 'PYMODULE'),
+  ('lxml',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\__init__.py',
+   'PYMODULE'),
+  ('lxml.ElementInclude',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\ElementInclude.py',
+   'PYMODULE'),
+  ('lxml.cssselect',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\cssselect.py',
+   'PYMODULE'),
+  ('lxml.doctestcompare',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\doctestcompare.py',
+   'PYMODULE'),
+  ('lxml.html',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\html\\__init__.py',
+   'PYMODULE'),
+  ('lxml.html.ElementSoup',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\html\\ElementSoup.py',
+   'PYMODULE'),
+  ('lxml.html._diffcommand',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\html\\_diffcommand.py',
+   'PYMODULE'),
+  ('lxml.html._html5builder',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\html\\_html5builder.py',
+   'PYMODULE'),
+  ('lxml.html._setmixin',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\html\\_setmixin.py',
+   'PYMODULE'),
+  ('lxml.html.builder',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\html\\builder.py',
+   'PYMODULE'),
+  ('lxml.html.clean',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\html\\clean.py',
+   'PYMODULE'),
+  ('lxml.html.defs',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\html\\defs.py',
+   'PYMODULE'),
+  ('lxml.html.formfill',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\html\\formfill.py',
+   'PYMODULE'),
+  ('lxml.html.html5parser',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\html\\html5parser.py',
+   'PYMODULE'),
+  ('lxml.html.soupparser',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\html\\soupparser.py',
+   'PYMODULE'),
+  ('lxml.html.usedoctest',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\html\\usedoctest.py',
+   'PYMODULE'),
+  ('lxml.includes',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\includes\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.extlibs',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\includes\\extlibs\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libexslt',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\includes\\libexslt\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libxml',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\includes\\libxml\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libxslt',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\includes\\libxslt\\__init__.py',
+   'PYMODULE'),
+  ('lxml.isoschematron',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\isoschematron\\__init__.py',
+   'PYMODULE'),
+  ('lxml.pyclasslookup',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\pyclasslookup.py',
+   'PYMODULE'),
+  ('lxml.usedoctest',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\lxml\\usedoctest.py',
+   'PYMODULE'),
+  ('lzma', 'C:\\Python313\\Lib\\lzma.py', 'PYMODULE'),
+  ('main_window',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\gui\\main_window.py',
+   'PYMODULE'),
+  ('mimetypes', 'C:\\Python313\\Lib\\mimetypes.py', 'PYMODULE'),
+  ('multidict',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\multidict\\__init__.py',
+   'PYMODULE'),
+  ('multidict._abc',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\multidict\\_abc.py',
+   'PYMODULE'),
+  ('multidict._compat',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\multidict\\_compat.py',
+   'PYMODULE'),
+  ('multidict._multidict_py',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\multidict\\_multidict_py.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Python313\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Python313\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Python313\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Python313\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Python313\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Python313\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Python313\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Python313\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Python313\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Python313\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Python313\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Python313\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Python313\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Python313\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Python313\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Python313\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Python313\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Python313\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Python313\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Python313\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Python313\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Python313\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Python313\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc', 'C:\\Python313\\Lib\\netrc.py', 'PYMODULE'),
+  ('nturl2path', 'C:\\Python313\\Lib\\nturl2path.py', 'PYMODULE'),
+  ('numbers', 'C:\\Python313\\Lib\\numbers.py', 'PYMODULE'),
+  ('opcode', 'C:\\Python313\\Lib\\opcode.py', 'PYMODULE'),
+  ('optparse', 'C:\\Python313\\Lib\\optparse.py', 'PYMODULE'),
+  ('oscrypto',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\__init__.py',
+   'PYMODULE'),
+  ('oscrypto._asn1',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_asn1.py',
+   'PYMODULE'),
+  ('oscrypto._errors',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_errors.py',
+   'PYMODULE'),
+  ('oscrypto._ffi',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_ffi.py',
+   'PYMODULE'),
+  ('oscrypto._linux_bsd',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_linux_bsd\\__init__.py',
+   'PYMODULE'),
+  ('oscrypto._linux_bsd.trust_list',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_linux_bsd\\trust_list.py',
+   'PYMODULE'),
+  ('oscrypto._mac',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_mac\\__init__.py',
+   'PYMODULE'),
+  ('oscrypto._mac._core_foundation',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_mac\\_core_foundation.py',
+   'PYMODULE'),
+  ('oscrypto._mac._core_foundation_cffi',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_mac\\_core_foundation_cffi.py',
+   'PYMODULE'),
+  ('oscrypto._mac._core_foundation_ctypes',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_mac\\_core_foundation_ctypes.py',
+   'PYMODULE'),
+  ('oscrypto._mac._security',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_mac\\_security.py',
+   'PYMODULE'),
+  ('oscrypto._mac._security_cffi',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_mac\\_security_cffi.py',
+   'PYMODULE'),
+  ('oscrypto._mac._security_ctypes',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_mac\\_security_ctypes.py',
+   'PYMODULE'),
+  ('oscrypto._mac.trust_list',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_mac\\trust_list.py',
+   'PYMODULE'),
+  ('oscrypto._types',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_types.py',
+   'PYMODULE'),
+  ('oscrypto._win',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_win\\__init__.py',
+   'PYMODULE'),
+  ('oscrypto._win._crypt32',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_win\\_crypt32.py',
+   'PYMODULE'),
+  ('oscrypto._win._crypt32_cffi',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_win\\_crypt32_cffi.py',
+   'PYMODULE'),
+  ('oscrypto._win._crypt32_ctypes',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_win\\_crypt32_ctypes.py',
+   'PYMODULE'),
+  ('oscrypto._win._decode',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_win\\_decode.py',
+   'PYMODULE'),
+  ('oscrypto._win._kernel32',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_win\\_kernel32.py',
+   'PYMODULE'),
+  ('oscrypto._win._kernel32_cffi',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_win\\_kernel32_cffi.py',
+   'PYMODULE'),
+  ('oscrypto._win._kernel32_ctypes',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_win\\_kernel32_ctypes.py',
+   'PYMODULE'),
+  ('oscrypto._win.trust_list',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\_win\\trust_list.py',
+   'PYMODULE'),
+  ('oscrypto.errors',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\errors.py',
+   'PYMODULE'),
+  ('oscrypto.trust_list',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\trust_list.py',
+   'PYMODULE'),
+  ('oscrypto.version',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\oscrypto\\version.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._ranges',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\packaging\\_ranges.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.licenses',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\packaging\\licenses\\__init__.py',
+   'PYMODULE'),
+  ('packaging.licenses._spdx',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\packaging\\licenses\\_spdx.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.ranges',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\packaging\\ranges.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('page_base',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\gui\\page_base.py',
+   'PYMODULE'),
+  ('page_certificates',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\gui\\page_certificates.py',
+   'PYMODULE'),
+  ('page_dashboard',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\gui\\page_dashboard.py',
+   'PYMODULE'),
+  ('page_keys',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\gui\\page_keys.py',
+   'PYMODULE'),
+  ('page_sign',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\gui\\page_sign.py',
+   'PYMODULE'),
+  ('page_verify',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\gui\\page_verify.py',
+   'PYMODULE'),
+  ('pathlib', 'C:\\Python313\\Lib\\pathlib\\__init__.py', 'PYMODULE'),
+  ('pathlib._abc', 'C:\\Python313\\Lib\\pathlib\\_abc.py', 'PYMODULE'),
+  ('pathlib._local', 'C:\\Python313\\Lib\\pathlib\\_local.py', 'PYMODULE'),
+  ('pdb', 'C:\\Python313\\Lib\\pdb.py', 'PYMODULE'),
+  ('pdf_checks',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\backend\\pdf_checks.py',
+   'PYMODULE'),
+  ('pdf_signer',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\backend\\pdf_signer.py',
+   'PYMODULE'),
+  ('pdf_verifier',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\backend\\pdf_verifier.py',
+   'PYMODULE'),
+  ('pickle', 'C:\\Python313\\Lib\\pickle.py', 'PYMODULE'),
+  ('pkgutil', 'C:\\Python313\\Lib\\pkgutil.py', 'PYMODULE'),
+  ('platform', 'C:\\Python313\\Lib\\platform.py', 'PYMODULE'),
+  ('pprint', 'C:\\Python313\\Lib\\pprint.py', 'PYMODULE'),
+  ('propcache',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\propcache\\__init__.py',
+   'PYMODULE'),
+  ('propcache._helpers',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\propcache\\_helpers.py',
+   'PYMODULE'),
+  ('propcache._helpers_py',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\propcache\\_helpers_py.py',
+   'PYMODULE'),
+  ('propcache.api',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\propcache\\api.py',
+   'PYMODULE'),
+  ('py_compile', 'C:\\Python313\\Lib\\py_compile.py', 'PYMODULE'),
+  ('pycparser',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pydoc', 'C:\\Python313\\Lib\\pydoc.py', 'PYMODULE'),
+  ('pydoc_data', 'C:\\Python313\\Lib\\pydoc_data\\__init__.py', 'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Python313\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pyhanko', '-', 'PYMODULE'),
+  ('pyhanko.config',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\config\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.config.api',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\config\\api.py',
+   'PYMODULE'),
+  ('pyhanko.config.errors',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\config\\errors.py',
+   'PYMODULE'),
+  ('pyhanko.config.local_keys',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\config\\local_keys.py',
+   'PYMODULE'),
+  ('pyhanko.config.logging',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\config\\logging.py',
+   'PYMODULE'),
+  ('pyhanko.config.pkcs11',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\config\\pkcs11.py',
+   'PYMODULE'),
+  ('pyhanko.generated',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\generated\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.generated.etsi',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\generated\\etsi\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.generated.etsi.ts_11910202',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\generated\\etsi\\ts_11910202.py',
+   'PYMODULE'),
+  ('pyhanko.generated.etsi.ts_119612',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\generated\\etsi\\ts_119612.py',
+   'PYMODULE'),
+  ('pyhanko.generated.etsi.ts_119612_extra',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\generated\\etsi\\ts_119612_extra.py',
+   'PYMODULE'),
+  ('pyhanko.generated.etsi.ts_119612_sie',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\generated\\etsi\\ts_119612_sie.py',
+   'PYMODULE'),
+  ('pyhanko.generated.etsi.xades',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\generated\\etsi\\xades.py',
+   'PYMODULE'),
+  ('pyhanko.generated.w3c',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\generated\\w3c\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.generated.w3c.xmldsig_core',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\generated\\w3c\\xmldsig_core.py',
+   'PYMODULE'),
+  ('pyhanko.generated.xml',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\generated\\xml.py',
+   'PYMODULE'),
+  ('pyhanko.keys',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\keys\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.keys.internal',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\keys\\internal.py',
+   'PYMODULE'),
+  ('pyhanko.keys.pemder',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\keys\\pemder.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.barcodes',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\barcodes.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.content',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\content.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.content_stream_parser',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\content_stream_parser.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.crypt',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\crypt\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.crypt._iso32004_asn1',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\crypt\\_iso32004_asn1.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.crypt._legacy',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\crypt\\_legacy.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.crypt._saslprep',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\crypt\\_saslprep.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.crypt._util',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\crypt\\_util.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.crypt.api',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\crypt\\api.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.crypt.cred_ser',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\crypt\\cred_ser.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.crypt.filter_mixins',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\crypt\\filter_mixins.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.crypt.pdfmac',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\crypt\\pdfmac.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.crypt.permissions',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\crypt\\permissions.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.crypt.pubkey',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\crypt\\pubkey.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.crypt.standard',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\crypt\\standard.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.decode_limits',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\decode_limits.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.embed',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\embed.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.extensions',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\extensions.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.filters',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\filters.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.font',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\font\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.font.api',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\font\\api.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.font.basic',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\font\\basic.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.font.opentype',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\font\\opentype.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.form_tools',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\form_tools.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.generic',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\generic.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.images',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\images.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.incremental_writer',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\incremental_writer.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.layout',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\layout.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.metadata',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.metadata.info',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\metadata\\info.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.metadata.model',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\metadata\\model.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.metadata.xmp_xml',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\metadata\\xmp_xml.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.misc',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\misc.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.qr',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\qr.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.reader',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\reader.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.rw_common',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\rw_common.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.text',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\text.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.writer',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\writer.py',
+   'PYMODULE'),
+  ('pyhanko.pdf_utils.xref',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\pdf_utils\\xref.py',
+   'PYMODULE'),
+  ('pyhanko.sign',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.sign._session_scope',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\_session_scope.py',
+   'PYMODULE'),
+  ('pyhanko.sign.ades',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\ades\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.sign.ades.api',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\ades\\api.py',
+   'PYMODULE'),
+  ('pyhanko.sign.ades.asn1_util',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\ades\\asn1_util.py',
+   'PYMODULE'),
+  ('pyhanko.sign.ades.cades_asn1',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\ades\\cades_asn1.py',
+   'PYMODULE'),
+  ('pyhanko.sign.ades.qualified_asn1',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\ades\\qualified_asn1.py',
+   'PYMODULE'),
+  ('pyhanko.sign.ades.report',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\ades\\report.py',
+   'PYMODULE'),
+  ('pyhanko.sign.attributes',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\attributes.py',
+   'PYMODULE'),
+  ('pyhanko.sign.diff_analysis',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\diff_analysis\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.sign.diff_analysis.commons',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\diff_analysis\\commons.py',
+   'PYMODULE'),
+  ('pyhanko.sign.diff_analysis.constants',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\diff_analysis\\constants.py',
+   'PYMODULE'),
+  ('pyhanko.sign.diff_analysis.form_rules_api',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\diff_analysis\\form_rules_api.py',
+   'PYMODULE'),
+  ('pyhanko.sign.diff_analysis.policies',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\diff_analysis\\policies.py',
+   'PYMODULE'),
+  ('pyhanko.sign.diff_analysis.policy_api',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\diff_analysis\\policy_api.py',
+   'PYMODULE'),
+  ('pyhanko.sign.diff_analysis.rules',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\diff_analysis\\rules\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.sign.diff_analysis.rules.file_structure_rules',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\diff_analysis\\rules\\file_structure_rules.py',
+   'PYMODULE'),
+  ('pyhanko.sign.diff_analysis.rules.form_field_rules',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\diff_analysis\\rules\\form_field_rules.py',
+   'PYMODULE'),
+  ('pyhanko.sign.diff_analysis.rules.metadata_rules',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\diff_analysis\\rules\\metadata_rules.py',
+   'PYMODULE'),
+  ('pyhanko.sign.diff_analysis.rules_api',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\diff_analysis\\rules_api.py',
+   'PYMODULE'),
+  ('pyhanko.sign.fields',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\fields.py',
+   'PYMODULE'),
+  ('pyhanko.sign.general',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\general.py',
+   'PYMODULE'),
+  ('pyhanko.sign.pkcs11',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\pkcs11.py',
+   'PYMODULE'),
+  ('pyhanko.sign.signers',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\signers\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.sign.signers.cms_embedder',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\signers\\cms_embedder.py',
+   'PYMODULE'),
+  ('pyhanko.sign.signers.constants',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\signers\\constants.py',
+   'PYMODULE'),
+  ('pyhanko.sign.signers.csc_signer',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\signers\\csc_signer.py',
+   'PYMODULE'),
+  ('pyhanko.sign.signers.functions',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\signers\\functions.py',
+   'PYMODULE'),
+  ('pyhanko.sign.signers.pdf_byterange',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\signers\\pdf_byterange.py',
+   'PYMODULE'),
+  ('pyhanko.sign.signers.pdf_cms',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\signers\\pdf_cms.py',
+   'PYMODULE'),
+  ('pyhanko.sign.signers.pdf_signer',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\signers\\pdf_signer.py',
+   'PYMODULE'),
+  ('pyhanko.sign.timestamps',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\timestamps\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.sign.timestamps.aiohttp_client',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\timestamps\\aiohttp_client.py',
+   'PYMODULE'),
+  ('pyhanko.sign.timestamps.api',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\timestamps\\api.py',
+   'PYMODULE'),
+  ('pyhanko.sign.timestamps.common_utils',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\timestamps\\common_utils.py',
+   'PYMODULE'),
+  ('pyhanko.sign.timestamps.dummy_client',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\timestamps\\dummy_client.py',
+   'PYMODULE'),
+  ('pyhanko.sign.timestamps.requests_client',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\timestamps\\requests_client.py',
+   'PYMODULE'),
+  ('pyhanko.sign.validation',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\validation\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.sign.validation.ades',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\validation\\ades.py',
+   'PYMODULE'),
+  ('pyhanko.sign.validation.dss',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\validation\\dss.py',
+   'PYMODULE'),
+  ('pyhanko.sign.validation.errors',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\validation\\errors.py',
+   'PYMODULE'),
+  ('pyhanko.sign.validation.generic_cms',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\validation\\generic_cms.py',
+   'PYMODULE'),
+  ('pyhanko.sign.validation.pdf_embedded',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\validation\\pdf_embedded.py',
+   'PYMODULE'),
+  ('pyhanko.sign.validation.policy_decl',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\validation\\policy_decl.py',
+   'PYMODULE'),
+  ('pyhanko.sign.validation.qualified',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\validation\\qualified\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.sign.validation.qualified.assess',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\validation\\qualified\\assess.py',
+   'PYMODULE'),
+  ('pyhanko.sign.validation.qualified.eutl_fetch',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\validation\\qualified\\eutl_fetch.py',
+   'PYMODULE'),
+  ('pyhanko.sign.validation.qualified.eutl_parse',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\validation\\qualified\\eutl_parse.py',
+   'PYMODULE'),
+  ('pyhanko.sign.validation.qualified.q_status',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\validation\\qualified\\q_status.py',
+   'PYMODULE'),
+  ('pyhanko.sign.validation.qualified.tsp',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\validation\\qualified\\tsp.py',
+   'PYMODULE'),
+  ('pyhanko.sign.validation.report',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\validation\\report\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.sign.validation.report.tools',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\validation\\report\\tools.py',
+   'PYMODULE'),
+  ('pyhanko.sign.validation.settings',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\validation\\settings.py',
+   'PYMODULE'),
+  ('pyhanko.sign.validation.status',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\validation\\status.py',
+   'PYMODULE'),
+  ('pyhanko.sign.validation.utils',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\sign\\validation\\utils.py',
+   'PYMODULE'),
+  ('pyhanko.stamp',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\stamp\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko.stamp.appearances',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\stamp\\appearances.py',
+   'PYMODULE'),
+  ('pyhanko.stamp.art',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\stamp\\art.py',
+   'PYMODULE'),
+  ('pyhanko.stamp.base',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\stamp\\base.py',
+   'PYMODULE'),
+  ('pyhanko.stamp.functions',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\stamp\\functions.py',
+   'PYMODULE'),
+  ('pyhanko.stamp.noop',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\stamp\\noop.py',
+   'PYMODULE'),
+  ('pyhanko.stamp.qr',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\stamp\\qr.py',
+   'PYMODULE'),
+  ('pyhanko.stamp.static',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\stamp\\static.py',
+   'PYMODULE'),
+  ('pyhanko.stamp.text',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\stamp\\text.py',
+   'PYMODULE'),
+  ('pyhanko.version',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko\\version\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator._state',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\_state.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.asn1_types',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\asn1_types.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.authority',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\authority.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.context',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\context.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.errors',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\errors.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.fetchers',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\fetchers\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.fetchers.aiohttp_fetchers',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\fetchers\\aiohttp_fetchers\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.fetchers.aiohttp_fetchers.cert_fetch_client',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\fetchers\\aiohttp_fetchers\\cert_fetch_client.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.fetchers.aiohttp_fetchers.crl_client',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\fetchers\\aiohttp_fetchers\\crl_client.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.fetchers.aiohttp_fetchers.ocsp_client',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\fetchers\\aiohttp_fetchers\\ocsp_client.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.fetchers.aiohttp_fetchers.util',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\fetchers\\aiohttp_fetchers\\util.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.fetchers.api',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\fetchers\\api.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.fetchers.common_utils',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\fetchers\\common_utils.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.ltv',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\ltv\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.ltv.ades_past',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\ltv\\ades_past.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.ltv.errors',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\ltv\\errors.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.ltv.poe',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\ltv\\poe.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.ltv.time_slide',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\ltv\\time_slide.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.ltv.types',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\ltv\\types.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.name_trees',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\name_trees.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.path',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\path.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.policy_decl',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\policy_decl.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.policy_graph',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\policy_graph.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.registry',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\registry.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.revinfo',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\revinfo\\__init__.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.revinfo._err_gather',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\revinfo\\_err_gather.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.revinfo.archival',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\revinfo\\archival.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.revinfo.constants',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\revinfo\\constants.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.revinfo.manager',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\revinfo\\manager.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.revinfo.validate_crl',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\revinfo\\validate_crl.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.revinfo.validate_ocsp',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\revinfo\\validate_ocsp.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.sig_validate',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\sig_validate.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.util',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\util.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.validate',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\validate.py',
+   'PYMODULE'),
+  ('pyhanko_certvalidator.version',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\pyhanko_certvalidator\\version.py',
+   'PYMODULE'),
+  ('queue', 'C:\\Python313\\Lib\\queue.py', 'PYMODULE'),
+  ('quopri', 'C:\\Python313\\Lib\\quopri.py', 'PYMODULE'),
+  ('random', 'C:\\Python313\\Lib\\random.py', 'PYMODULE'),
+  ('rlcompleter', 'C:\\Python313\\Lib\\rlcompleter.py', 'PYMODULE'),
+  ('runpy', 'C:\\Python313\\Lib\\runpy.py', 'PYMODULE'),
+  ('sample_pdf',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\backend\\sample_pdf.py',
+   'PYMODULE'),
+  ('secrets', 'C:\\Python313\\Lib\\secrets.py', 'PYMODULE'),
+  ('selectors', 'C:\\Python313\\Lib\\selectors.py', 'PYMODULE'),
+  ('self_test',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\backend\\self_test.py',
+   'PYMODULE'),
+  ('setuptools',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._core_metadata',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_core_metadata.py',
+   'PYMODULE'),
+  ('setuptools._discovery',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_discovery.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils._dataclass',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\_dataclass.py',
+   'PYMODULE'),
+  ('setuptools._distutils._log',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'PYMODULE'),
+  ('setuptools._distutils._modified',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.numpy',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\numpy.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.py310',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C.base',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\base.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.cygwin',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\cygwin.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.errors',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.msvc',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\msvc.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.unix',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\unix.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.zos',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\zos.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers._modified',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers._util',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.errors',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.logging',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\logging.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.platform', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.platform.detect',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\platform\\detect.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.platform.macos',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\platform\\macos.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._normalization',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_normalization.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._shutil',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_shutil.py',
+   'PYMODULE'),
+  ('setuptools._static',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_static.py',
+   'PYMODULE'),
+  ('setuptools._vendor', '-', 'PYMODULE'),
+  ('setuptools._vendor.backports',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat.py38',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco', '-', 'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._elffile',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._parser',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._ranges',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_ranges.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._tokenizer',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.ranges',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\ranges.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.macosx_libfile',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\macosx_libfile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.wheelfile',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\wheelfile.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command._requirestxt',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_wheel',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\command\\bdist_wheel.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.compat',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.compat.py310',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools.compat.py311',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools.compat.py39',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.warnings',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\warnings.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shiboken6',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\shiboken6\\__init__.py',
+   'PYMODULE'),
+  ('shlex', 'C:\\Python313\\Lib\\shlex.py', 'PYMODULE'),
+  ('shutil', 'C:\\Python313\\Lib\\shutil.py', 'PYMODULE'),
+  ('signal', 'C:\\Python313\\Lib\\signal.py', 'PYMODULE'),
+  ('site', 'C:\\Python313\\Lib\\site.py', 'PYMODULE'),
+  ('socket', 'C:\\Python313\\Lib\\socket.py', 'PYMODULE'),
+  ('socketserver', 'C:\\Python313\\Lib\\socketserver.py', 'PYMODULE'),
+  ('ssl', 'C:\\Python313\\Lib\\ssl.py', 'PYMODULE'),
+  ('statistics', 'C:\\Python313\\Lib\\statistics.py', 'PYMODULE'),
+  ('string', 'C:\\Python313\\Lib\\string.py', 'PYMODULE'),
+  ('stringprep', 'C:\\Python313\\Lib\\stringprep.py', 'PYMODULE'),
+  ('subprocess', 'C:\\Python313\\Lib\\subprocess.py', 'PYMODULE'),
+  ('sysconfig', 'C:\\Python313\\Lib\\sysconfig\\__init__.py', 'PYMODULE'),
+  ('tarfile', 'C:\\Python313\\Lib\\tarfile.py', 'PYMODULE'),
+  ('tasks',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\gui\\tasks.py',
+   'PYMODULE'),
+  ('tempfile', 'C:\\Python313\\Lib\\tempfile.py', 'PYMODULE'),
+  ('textwrap', 'C:\\Python313\\Lib\\textwrap.py', 'PYMODULE'),
+  ('theme',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\gui\\theme.py',
+   'PYMODULE'),
+  ('threading', 'C:\\Python313\\Lib\\threading.py', 'PYMODULE'),
+  ('token', 'C:\\Python313\\Lib\\token.py', 'PYMODULE'),
+  ('tokenize', 'C:\\Python313\\Lib\\tokenize.py', 'PYMODULE'),
+  ('tomllib', 'C:\\Python313\\Lib\\tomllib\\__init__.py', 'PYMODULE'),
+  ('tomllib._parser', 'C:\\Python313\\Lib\\tomllib\\_parser.py', 'PYMODULE'),
+  ('tomllib._re', 'C:\\Python313\\Lib\\tomllib\\_re.py', 'PYMODULE'),
+  ('tomllib._types', 'C:\\Python313\\Lib\\tomllib\\_types.py', 'PYMODULE'),
+  ('tracemalloc', 'C:\\Python313\\Lib\\tracemalloc.py', 'PYMODULE'),
+  ('trust_store',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\backend\\trust_store.py',
+   'PYMODULE'),
+  ('tty', 'C:\\Python313\\Lib\\tty.py', 'PYMODULE'),
+  ('typing', 'C:\\Python313\\Lib\\typing.py', 'PYMODULE'),
+  ('tzdata',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Africa',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.America',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.America.Argentina',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.America.Indiana',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.America.Kentucky',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Kentucky\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.America.North_Dakota',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\North_Dakota\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Antarctica',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Arctic',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Arctic\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Asia',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Atlantic',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Australia',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Brazil',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Brazil\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Canada',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Chile',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Chile\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Etc',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Europe',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Indian',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Mexico',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Mexico\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Pacific',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.US',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\__init__.py',
+   'PYMODULE'),
+  ('tzlocal',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzlocal\\__init__.py',
+   'PYMODULE'),
+  ('tzlocal.unix',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzlocal\\unix.py',
+   'PYMODULE'),
+  ('tzlocal.utils',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzlocal\\utils.py',
+   'PYMODULE'),
+  ('tzlocal.win32',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzlocal\\win32.py',
+   'PYMODULE'),
+  ('tzlocal.windows_tz',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\tzlocal\\windows_tz.py',
+   'PYMODULE'),
+  ('unittest', 'C:\\Python313\\Lib\\unittest\\__init__.py', 'PYMODULE'),
+  ('unittest._log', 'C:\\Python313\\Lib\\unittest\\_log.py', 'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Python313\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case', 'C:\\Python313\\Lib\\unittest\\case.py', 'PYMODULE'),
+  ('unittest.loader', 'C:\\Python313\\Lib\\unittest\\loader.py', 'PYMODULE'),
+  ('unittest.main', 'C:\\Python313\\Lib\\unittest\\main.py', 'PYMODULE'),
+  ('unittest.result', 'C:\\Python313\\Lib\\unittest\\result.py', 'PYMODULE'),
+  ('unittest.runner', 'C:\\Python313\\Lib\\unittest\\runner.py', 'PYMODULE'),
+  ('unittest.signals', 'C:\\Python313\\Lib\\unittest\\signals.py', 'PYMODULE'),
+  ('unittest.suite', 'C:\\Python313\\Lib\\unittest\\suite.py', 'PYMODULE'),
+  ('unittest.util', 'C:\\Python313\\Lib\\unittest\\util.py', 'PYMODULE'),
+  ('uritools',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\uritools\\__init__.py',
+   'PYMODULE'),
+  ('urllib', 'C:\\Python313\\Lib\\urllib\\__init__.py', 'PYMODULE'),
+  ('urllib.error', 'C:\\Python313\\Lib\\urllib\\error.py', 'PYMODULE'),
+  ('urllib.parse', 'C:\\Python313\\Lib\\urllib\\parse.py', 'PYMODULE'),
+  ('urllib.request', 'C:\\Python313\\Lib\\urllib\\request.py', 'PYMODULE'),
+  ('urllib.response', 'C:\\Python313\\Lib\\urllib\\response.py', 'PYMODULE'),
+  ('uuid', 'C:\\Python313\\Lib\\uuid.py', 'PYMODULE'),
+  ('webbrowser', 'C:\\Python313\\Lib\\webbrowser.py', 'PYMODULE'),
+  ('widgets',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\gui\\widgets.py',
+   'PYMODULE'),
+  ('xml', 'C:\\Python313\\Lib\\xml\\__init__.py', 'PYMODULE'),
+  ('xml.parsers', 'C:\\Python313\\Lib\\xml\\parsers\\__init__.py', 'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Python313\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax', 'C:\\Python313\\Lib\\xml\\sax\\__init__.py', 'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Python313\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Python313\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler', 'C:\\Python313\\Lib\\xml\\sax\\handler.py', 'PYMODULE'),
+  ('xml.sax.saxutils', 'C:\\Python313\\Lib\\xml\\sax\\saxutils.py', 'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Python313\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc', 'C:\\Python313\\Lib\\xmlrpc\\__init__.py', 'PYMODULE'),
+  ('xmlrpc.client', 'C:\\Python313\\Lib\\xmlrpc\\client.py', 'PYMODULE'),
+  ('yarl',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\yarl\\__init__.py',
+   'PYMODULE'),
+  ('yarl._parse',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\yarl\\_parse.py',
+   'PYMODULE'),
+  ('yarl._path',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\yarl\\_path.py',
+   'PYMODULE'),
+  ('yarl._query',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\yarl\\_query.py',
+   'PYMODULE'),
+  ('yarl._quoters',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\yarl\\_quoters.py',
+   'PYMODULE'),
+  ('yarl._quoting',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\yarl\\_quoting.py',
+   'PYMODULE'),
+  ('yarl._quoting_py',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\yarl\\_quoting_py.py',
+   'PYMODULE'),
+  ('yarl._url',
+   'C:\\Users\\Aadesh\\Documents\\Study\\SEM '
+   '1\\Cryptography\\ecdsa_pdf_signer\\ecdsa_pdf_signer\\.build_venv\\Lib\\site-packages\\yarl\\_url.py',
+   'PYMODULE'),
+  ('zipfile', 'C:\\Python313\\Lib\\zipfile\\__init__.py', 'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Python313\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Python313\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport', 'C:\\Python313\\Lib\\zipimport.py', 'PYMODULE'),
+  ('zoneinfo', 'C:\\Python313\\Lib\\zoneinfo\\__init__.py', 'PYMODULE'),
+  ('zoneinfo._common', 'C:\\Python313\\Lib\\zoneinfo\\_common.py', 'PYMODULE'),
+  ('zoneinfo._tzpath', 'C:\\Python313\\Lib\\zoneinfo\\_tzpath.py', 'PYMODULE'),
+  ('zoneinfo._zoneinfo',
+   'C:\\Python313\\Lib\\zoneinfo\\_zoneinfo.py',
+   'PYMODULE')])
